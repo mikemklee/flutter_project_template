@@ -1,4 +1,4 @@
-package com.example.what_to_eat
+package com.example.flutter_project_template
 
 import io.flutter.embedding.android.FlutterActivity
 

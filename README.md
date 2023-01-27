@@ -1,4 +1,4 @@
-# what_to_eat
+# flutter_project_template
 
 A new Flutter project.
 
